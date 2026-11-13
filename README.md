@@ -14,3 +14,5 @@ Genera los primeros 16 dígitos de la CURP de una persona a partir de sus datos 
 Imprime en la terminal las figuras que elija el usuario (Reloj de arena, Rombo, Moño, Copa, y todos los anteriores) de NxN de dimensión, siendo N un número que ingresa el usuario.
 ### BlackJack - Python
 Simulación del juego BlackJack o 21, implementando una interfaz gráfica con Tkinter. (SIN APUESTAS)
+### Función de Contraseña Segura - Python
+Función que verifica si la contraseña recibida es segura o no.
