@@ -425,6 +425,7 @@ def ImprimirTodasFiguras(simbolo:str, dimension:int) -> None:
 ################# PROGRAMA PRINCIPAL ##################
 #######################################################
 
+# Programa Principal:
 if __name__ == "__main__":
     #Ciclo de ejecución del programa
     while True:

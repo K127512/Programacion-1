@@ -127,6 +127,7 @@ def MostrarCarta(carta: tuple, esJugador: bool):
         )
 
     # Evalúa si es el jugador o es el crupier.
+    # Caso Jugador:
     if esJugador:
         # Muestra la carta normal sin taparla.
         dibujoCarta = tk.Label(marcoManoJugador, text=textoCarta, font=("Courier New", 11, "bold"), bg="white")
