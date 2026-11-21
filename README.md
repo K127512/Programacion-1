@@ -80,8 +80,8 @@ Ingrese la dimensión (impar) que desea para la/las figura/as a imprimir: 5
 *****      *      *   *    *****
 ```
 
-![Ejecución del programa](capturas/ejecicion.png)
+![Ejecución del programa](capturas/ejecucion.png)
 
 ## Autor
 #### Khristo Ricardo Rodriguez Valencia
-Estudiante de la Universidad de Sonora
+###### Estudiante de la Universidad de Sonora
