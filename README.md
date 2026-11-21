@@ -16,3 +16,9 @@ Imprime en la terminal las figuras que elija el usuario (Reloj de arena, Rombo, 
 Simulación del juego BlackJack o 21, implementando una interfaz gráfica con Tkinter. (SIN APUESTAS)
 ### Función de Contraseña Segura - Python
 Función que verifica si la contraseña recibida es segura o no.
+
+## Ejecución de un programa
+
+### Figuras en Terminal - Python
+Ejecute el archivo principal y elija la figura/s
+que desea ver impresas en terminal.

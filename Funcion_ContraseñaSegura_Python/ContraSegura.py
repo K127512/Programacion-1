@@ -43,6 +43,7 @@ def EsSegura(contrasena: str) -> bool:
     numeros = "0123456789"
     simbolos = "|'\"¿´+{-.,<>;:_[¨*]}¡?=)(/&%$#!°¬\\~@`^ "
 
+    #Verificación de todos los requisitos para que la contraseña sea segura
     for i in range(0, len(contrasena)):
         caracter = contrasena[i]
         if not hayMinuscula and caracter in letrasMin and caracter == caracter.lower():
